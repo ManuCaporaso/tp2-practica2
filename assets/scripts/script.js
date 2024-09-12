@@ -38,7 +38,7 @@ function submitForm(event) {
         apellido: document.getElementById('apellido').value,
         email: document.getElementById('email').value,
         password: document.getElementById('password').value,
-        club: document.getElementById('opcion').value,
+        nacionalidad: document.getElementById('opcion').value,
         comentarios: document.getElementById('comentarios').value
     };
 
